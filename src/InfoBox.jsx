@@ -54,7 +54,9 @@ export default function InfoBox({info}) {
         <Typography variant="body2" sx={{ color: "text.secondary" }}>
           Wind Speed: {info.wind_speed} km/h
         </Typography>
+
       </CardContent>
+      <h1>Added</h1>
      </Card>
      </div>
   </div>
